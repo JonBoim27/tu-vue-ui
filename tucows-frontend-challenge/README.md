@@ -52,7 +52,7 @@ Ensure you have the following installed:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd the folder you cloned the repo to
+   cd into tucows-frontend-challenge
    ```
 3. Install dependencies:
    ```bash
