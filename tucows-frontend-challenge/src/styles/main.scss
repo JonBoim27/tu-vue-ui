@@ -1,0 +1,9 @@
+@import './variables';
+@import './table';
+
+header {
+  background-color: $background-color;
+  color: #fff;
+  padding: $spacing-unit * 2;
+  text-align: center;
+}
