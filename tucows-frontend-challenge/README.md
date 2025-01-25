@@ -4,6 +4,15 @@
 
 This project is a **Product Catalog Web Application** built using **Vue 3** and **SCSS**, designed to help users search, sort, and view product details in a table.
 
+## Table View
+
+![Table View](./public/screenshots/TableView.png)
+
+## Modal View
+
+![Modal View](./public/screenshots/ModalView.png)
+
+
 ## Features
 
 1. **Product Table**:
@@ -38,8 +47,8 @@ Ensure you have the following installed:
 ### Steps
 
 1. Clone the repository:
-   ```bash
-  git clone https://github.com/JonBoim27/tu-vue-ui.git
+   ```bash 
+   git clone https://github.com/JonBoim27/tu-vue-ui.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -54,9 +63,9 @@ Ensure you have the following installed:
    npm run dev
    ```
 5. Open your browser and navigate to:
-  ```
-    http://localhost:5173/
-    ```
+   ```bash
+   http://localhost:5173/
+   ```
 
 ## JSON Data
 
@@ -90,7 +99,8 @@ The application uses mock JSON data to simulate API responses. Below is an examp
 ## Future Enhancements
 
 - Fully responsive implementation
-- Displays a placeholder image if no product image is available.
+- Displays a placeholder image if no product image is available
+- Status column properly styled and dynamic rendering based on product status
 - Unit and End to End testing
 - Add pagination to handle large datasets efficiently
 - Integrate with a real API to fetch product data dynamically
