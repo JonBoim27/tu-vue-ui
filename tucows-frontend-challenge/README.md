@@ -55,7 +55,7 @@ Ensure you have the following installed:
    ```
 5. Open your browser and navigate to:
   ```
-    http://localhost:3000
+    http://localhost:5173/
     ```
 
 ## JSON Data
