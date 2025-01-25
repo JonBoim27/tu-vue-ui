@@ -32,7 +32,7 @@ This project is a **Product Catalog Web Application** built using **Vue 3** and 
 
 Ensure you have the following installed:
 
-- Node.js (v16 or higher)
+- Node.js (v22 or higher)
 - npm or yarn
 
 ### Steps
